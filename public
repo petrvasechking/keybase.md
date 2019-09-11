@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am petrvasechking on github.
+  * I am serdom (https://keybase.io/serdom) on keybase.
+  * I have a public key ASAIWx6V6Sp5fE_l-KFYNbv1H_ahiTducGD63h8LyzEW4go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120085b1e95e92a797c4fe5f8a15835bbf51ff6a189376e7060fade1f0bcb3116e20a",
+      "host": "keybase.io",
+      "kid": "0120085b1e95e92a797c4fe5f8a15835bbf51ff6a189376e7060fade1f0bcb3116e20a",
+      "uid": "ef2c39a4f863fc55ff8a18b09b88c419",
+      "username": "serdom"
+    },
+    "merkle_root": {
+      "ctime": 1568185590,
+      "hash": "ce0981ddc3cf55a5366420e4dccd630f0313b63fc693e8deefaa5539c93897b8b577769edf4111edbe826af1c560206ad4bf4b79f69cb2db1af1fa01706c5691",
+      "hash_meta": "06df2a25ac5e4e412d1769b51f9195378d436a7711fe28995fe338a13411e8d4",
+      "seqno": 6625699
+    },
+    "service": {
+      "entropy": "mmHDgcFBW3sGQvj6o+PrZIcz",
+      "name": "github",
+      "username": "petrvasechking"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568185603,
+  "expire_in": 504576000,
+  "prev": "1ae16c390620c7f86da5ac0e15524e8f4e71463c68ec3b98f44ddf28b0b0f6b1",
+  "seqno": 16,
+  "tag": "signature"
+}
+```
+
+with the key [ASAIWx6V6Sp5fE_l-KFYNbv1H_ahiTducGD63h8LyzEW4go](https://keybase.io/serdom), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCFselekqeXxP5fihWDW79R/2oYk3bnBg+t4fC8sxFuIKp3BheWxvYWTESpcCEMQgGuFsOQYgx/htpawOFVJOj05xRjxo7DuY9E3fKLCw9rHEIL6dZaTWuzhqlz4N41cH9Gz5IAFivhLnIKnvXZcik1LmAgHCo3NpZ8RAgPMsVusivMh6VhRqsPX9niQr/UIuS/66A3vqLXCiFhjIYV/9iWEzFgpCyWhIGMaVR1I/3oT6uaHUvsvijYa/CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIApeYMUkdmAGzHnYmEPD/RKq4Q+d3z1YliScE/A1IZBXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/serdom
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id serdom
+```
